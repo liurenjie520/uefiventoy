@@ -43,3 +43,7 @@
  
 ### rufus-3.18p.exe
 ### https://sharewh.chaoxing.com/share/download/3da37e25a3e09f4ecf2db475df54dbd3?kiwiw=?ab37dd0d4c325a84
+
+# 博客备份
+## https://web.archive.org/web/20220423085705/https://www.cnblogs.com/gnz48/p/16182366.html
+### https://www.cnblogs.com/gnz48/p/16182366.html
